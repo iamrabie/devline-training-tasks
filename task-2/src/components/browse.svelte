@@ -26,7 +26,7 @@
             </div>
         </div>
 
-        <div class="sm:flex sm:flex-col md:flex md:flex-col lg:flex flex">
+        <div class="sm:flex sm:flex-col md:flex md:flex-col lg:flex lg:flex-row xl:flex xl:flex-row">
 
             <!-- div 1 -->
             <div class="sm:w-[100%] md:w-[100%] lg:w-[65%] w-[65%]">
@@ -36,10 +36,10 @@
             <!-- div 2 -->
             <div class="sm:w-[100%] md:w-[100%] lg:w-[35%] w-[35%] flex flex-col">
               <div>
-                <img src="/assets/browse2.png" alt="" class="sm:mx-0  sm:w-[100%] md:w-[100%] mx-auto sm:mb-1 sm:mt-2 mb-3"/>
+                <img src="/assets/browse2.png" alt="" class="sm:mx-0  sm:w-[100%] md:w-[100%] mx-auto sm:mb-1 sm:mt-2 lg:mt-0 mb-3 lg:h-full xl:h-full"/>
               </div>
               <div>
-                <img src="/assets/browse3.png" alt="" class="sm:mx-0  sm:w-[100%] md:w-[100%] mx-auto mt-1" />
+                <img src="/assets/browse3.png" alt="" class="sm:mx-0  sm:w-[100%] md:w-[100%] mx-auto mt-1 lg:mt-[13px] xl:mt-4 lg:h-full xl:h-full" />
               </div>
             </div>
         </div>

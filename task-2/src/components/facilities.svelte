@@ -22,7 +22,7 @@
 
 <div class="py-5 py-4 px-3">
     <h1 class="font-semibold text-4xl text-center py-5 mb-4 sm:text-xl md:text-2xl ">We provide attractive facilities for our clients.</h1>
-    <div class="sm:flex sm:flex-col md:flex md:flex-col flex">
+    <div class="sm:flex sm:flex-col md:flex md:flex-col xl:flex xl:flex-row flex">
         <div class="sm:w-[100%] md:w-[100%] w-[50%] pt-3">
             {#each facilities as facility}
               <h1 class="font-semibold w-3/4 bold text-xl">{facility.heading}</h1>
